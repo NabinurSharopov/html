@@ -627,6 +627,13 @@ ol {
 @media (max-width: 502px) {
   .div11{
     width: 400px;
-    margin-left: 40px;
+    margin-left: 20px;
+  }
+  .div15{
+    width: 450px;
+  }
+  .img12{
+    width: 400px;
+    margin-left: 20px;
   }
 }
