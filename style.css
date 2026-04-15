@@ -624,3 +624,9 @@ ol {
     margin-left: -29px;
   }
 }
+@media (max-width: 502px) {
+  .div11{
+    width: 400px;
+    margin-left: 40px;
+  }
+}
