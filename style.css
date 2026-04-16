@@ -651,3 +651,11 @@ ol {
       margin-left: 34px;
      }
 }
+@media (max-width: 386px) {
+ .p1{
+  margin-right: 19px;
+ }
+ .img4{
+  width: 300px;
+ }
+}
